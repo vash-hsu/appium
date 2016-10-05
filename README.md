@@ -77,8 +77,23 @@ class HelloWorldTests(unittest.TestCase):
 
 |  | EN | TC |
 |--|--|--|
-| Main | ![animation](02_9x9math/illustration_01/animation.gif) | ![animation](02_9x9math/illustration_02/animation.gif) |
-| Detail | [icon](02_9x9math/illustration_01/0_app_icon.png) [Main](02_9x9math/illustration_01/1_main.png) [Plus](02_9x9math/illustration_01/2_plus.png) [Confirm](02_9x9math/illustration_01/2_plus_confirm.png) [Minus](02_9x9math/illustration_01/3_minus.png) [Times](02_9x9math/illustration_01/4_times.png) [Divide](02_9x9math/illustration_01/5_divide.png) | [icon](02_9x9math/illustration_02/0_app_icon.png) [Main](02_9x9math/illustration_02/1_main.png) [Plus](02_9x9math/illustration_02/2_plus.png) [Confirm](02_9x9math/illustration_02/2_plus_confirm.png) [Minus](02_9x9math/illustration_02/3_minus.png) [Times](02_9x9math/illustration_02/4_times.png) [Divide](02_9x9math/illustration_02/5_divide.png) | |  
+| Main | . ![animation](02_9x9math/illustration_01/animation.gif) | . ![animation](02_9x9math/illustration_02/animation.gif) |
+
+* Illustration for English
+ * [icon](02_9x9math/illustration_01/0_app_icon.png)
+ * [Main](02_9x9math/illustration_01/1_main.png)
+ * [Plus](02_9x9math/illustration_01/2_plus.png)
+ * [Confirm](02_9x9math/illustration_01/2_plus_confirm.png)
+ * [Minus](02_9x9math/illustration_01/3_minus.png) [Times](02_9x9math/illustration_01/4_times.png)
+ * [Divide](02_9x9math/illustration_01/5_divide.png)  
+* Illustration for Trandition Chinese
+ * [icon](02_9x9math/illustration_02/0_app_icon.png)
+ * [Main](02_9x9math/illustration_02/1_main.png)
+ * [Plus](02_9x9math/illustration_02/2_plus.png)
+ * [Confirm](02_9x9math/illustration_02/2_plus_confirm.png)
+ * [Minus](02_9x9math/illustration_02/3_minus.png)
+ * [Times](02_9x9math/illustration_02/4_times.png)
+ * [Divide](02_9x9math/illustration_02/5_divide.png)  
 
 
 ### Highlight
