@@ -75,9 +75,9 @@ class HelloWorldTests(unittest.TestCase):
 * APK file: [download](02_9x9math/com.blogspot.rulesare.9x9math.apk)
 * screenshot:
 
-| Activity(s) | EN | TC |
-|--|--|--|
-| Main | . ![animation](02_9x9math/illustration_01/animation.gif) | . ![animation](02_9x9math/illustration_02/animation.gif) |
+| Activity(s) | EN | TC |  
+|---|---|---|  
+| Main | . ![animation](02_9x9math/illustration_01/animation.gif) | . ![animation](02_9x9math/illustration_02/animation.gif) |  
 
 * Illustration for English
  * [icon](02_9x9math/illustration_01/0_app_icon.png)
